@@ -15,7 +15,6 @@ public class PScript : MonoBehaviour
             random = Random.Range(0f, 1f);
     }
 
-
     // Update is called once per frame
     void Update()
     {
