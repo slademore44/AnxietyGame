@@ -45,8 +45,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 316.80002
-    y: 73.6
+    x: 317.8
+    y: 19
     width: 856.39996
     height: 520.6
   m_SerializedDataModeController:
@@ -685,9 +685,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 15.538889, y: 12.644579, z: -6.210147}
+    m_Target: {x: -29.088633, y: 8.229408, z: -18.358936}
     speed: 2
-    m_Value: {x: 15.538889, y: 12.644579, z: -6.210147}
+    m_Value: {x: -29.088633, y: 8.229408, z: -18.358936}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -733,9 +733,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.023015024, y: 0.77283394, z: -0.028073618, w: -0.6335704}
+    m_Target: {x: -0.01259677, y: 0.98738945, z: -0.10886291, w: -0.11425166}
     speed: 2
-    m_Value: {x: -0.023015007, y: 0.7728334, z: -0.028073598, w: -0.6335699}
+    m_Value: {x: -0.012596763, y: 0.98738885, z: -0.10886284, w: -0.11425159}
   m_Size:
     m_Target: 13.608618
     speed: 2
