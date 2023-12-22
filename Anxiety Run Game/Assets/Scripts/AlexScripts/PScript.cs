@@ -7,7 +7,7 @@ public class PScript : MonoBehaviour
     public float speed = 1.5f;
     public float limit = 75f;
     public bool randomStart = false;
-    private float random = 0;
+    public float random = 0;
 
     private void Awake()
     {
